@@ -136,4 +136,5 @@ Please report any bugs on [GitHub](https://github.com/CryptoCommunity/ecbex/issu
 # License
 
 [MIT License](http://facundofarias.mit-license.org/) © Facundo Farias
-[MIT License]() © 2017 Crypto Community
+
+[MIT License](https://github.com/CryptoCommunity/ecbex/blob/master/LICENSE © 2017 Crypto Community
