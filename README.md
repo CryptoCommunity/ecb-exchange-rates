@@ -13,16 +13,16 @@ This is currency converter for NodeJS - uses the European Central Bank's daily f
 <a name="installation"/>
 # Installation
 
-You can install this module by using npm [NPM](https://npmjs.org/package/ecb-exchange-rates):
+You can install this module by using npm:
 
-    npm install ecb-exchange-rates
+    npm install CryptoCommunity/ecbex
 
 <a name="usage"/>
 # Usage
 
 The first step is to include the library on you app by doing:
 
-    var currencyConverter = require('ecb-exchange-rates');
+    var currencyConverter = require('ecbex');
 
 If we need to convert a given value, then we create this settings object:
 
@@ -130,9 +130,10 @@ And it will return all the needed data for visualisation such as:
 <a name="bugs"/>
 # Bugs
 
-Please report any bugs on [GitHub](https://github.com/facundofarias/ecb-exchange-rates/issues)
+Please report any bugs on [GitHub](https://github.com/CryptoCommunity/ecbex/issues)
 
 <a name="licence"/>
 # License
 
-[MIT License](http: //facundofarias.mit-license.org/) © Facundo Farias
+[MIT License](http://facundofarias.mit-license.org/) © Facundo Farias
+[MIT License]() © 2017 Crypto Community

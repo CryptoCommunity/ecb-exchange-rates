@@ -1,5 +1,5 @@
 {
-  "name": "ecb-exchange-rates",
+  "name": "ecbex",
   "version": "0.0.7",
   "description": "European Central Bank Exchange Rates API client module for nodejs",
   "main": "currencyConverter.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facundofarias/ecb-exchange-rates.git"
+    "url": "https://github.com/CryptoCommunity/ecbex.git"
   },
   "keywords": [
     "ecb",
@@ -19,9 +19,9 @@
   "author": "facundo.farias@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/facundofarias/ecb-exchange-rates/issues"
+    "url": "https://github.com/CryptoCommunity/ecbex/issues"
   },
-  "homepage": "https://github.com/facundofarias/ecb-exchange-rates",
+  "homepage": "https://github.com/CryptoCommunity/ecbex",
   "dependencies": {
     "request": "^2.40.0",
     "underscore": "^1.7.0",
